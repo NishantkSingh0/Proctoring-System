@@ -13,3 +13,37 @@ Webcam face mesh tracking takes online exam proctoring to the next level by acti
 
 ## Workspace Verification (Planned Feature)
 We planned to integrate a robust workspace verification feature using lightweight object detection models like MobileNet or SSD to identify unauthorized devices such as phones, headphones, or watches in the student's workspace. This functionality would require live frames from mobile devices to be processed on an online server, necessitating the use of cloud computing services. However, to avoid the monthly operational costs associated with these services, this feature is currently paused. We aim to enable it in the future.
+
+## Quiz page:
+On the quiz page, you’ll find 10 basic DSA (Data Structures and Algorithms) questions, each with four options. Simply click on the correct answers and submit them within the 5-minute time limit. The system is designed to ensure fair conduct and will automatically submit your quiz if any of the following happens:    
+* you frequently move your face away from the screen   
+* attempt to switch to another tab, or blur the current working tab during the exam   
+* any third person or restricted items will detect.
+
+
+## An Animation video which explain working and how to use this project model:
+[How it works (Animation).webm](https://github.com/user-attachments/assets/539b5980-74cc-4066-a3ae-af2440fe1ebc)
+
+## Requirements:
+### Backend   
+* Flask==2.3.2
+* Flask-SocketIO==5.3.2
+* Flask-Cors==3.0.10
+* opencv-python==4.8.0.74
+* numpy==1.25.2
+* mediapipe==0.10.3
+* Pillow==10.0.0
+* engineio==4.3.4
+* threadpoolctl==3.2.0
+
+### Frontend   
+* "@chakra-ui/react": "^3.0.2",
+* "@emotion/react": "^11.13.3",
+* "@emotion/styled": "^11.13.0",
+* "@mui/material": "^6.1.6",
+* "framer-motion": "^11.11.11",
+* "lucide-react": "^0.454.0",
+* "react": "^18.3.1",
+* "react-dom": "^18.3.1",
+* "react-router-dom": "^6.27.0",
+* "socket.io-client": "^4.8.1"
