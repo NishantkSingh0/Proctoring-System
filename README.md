@@ -7,6 +7,7 @@ This project is a secure and AI-powered online exam proctoring system designed t
 
 ## Student Authentication
 Student authentication makes sure that only the right students can take and submit the test. Students need to enter details like their Student ID, Date of Birth, Course, and Name. This information is checked to confirm their identity. It helps organizers allow only their registered students to access the exam, keeping the process fair and secure.
+
 ![Screenshot (226)](https://github.com/user-attachments/assets/17e8c575-737f-436b-82f9-1b9a9968783a)
 
 
@@ -14,7 +15,6 @@ Student authentication makes sure that only the right students can take and subm
 Webcam face mesh tracking takes online exam proctoring to the next level by actively monitoring the student's facial movements and eye behavior in real time. When students grant webcam access, our system uses WebSocket technology to connect the web interface to a highly optimized AI backend that processes the live feed with multithreading for smooth, instant tracking. The AI provides helpful, real-time guidance to ensure the student maintains the proper face positioning, keeping them focused and engaged. Once the system confirms correct alignment, the student is all set to begin the exam, knowing they are being carefully monitored for fairness and integrity.
 
 ![Screenshot (230)](https://github.com/user-attachments/assets/2b9ad54a-37d8-4689-9745-21afef663612)
-
 [Proctoring test (Working).mp4](https://github.com/user-attachments/assets/18c8eea4-a01d-45fb-aad3-2e14e76cef68)
 
 
