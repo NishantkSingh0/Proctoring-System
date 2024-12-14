@@ -23,8 +23,9 @@ Webcam face mesh tracking takes online exam proctoring to the next level by acti
 We planned to integrate a robust workspace verification feature using lightweight object detection models like MobileNet or SSD to identify unauthorized devices such as phones, headphones, or watches in the student's workspace. This functionality would require live frames from mobile devices to be processed on an online server, necessitating the use of cloud computing services. However, to avoid the monthly operational costs associated with these services, this feature is currently paused. We aim to enable it in the future.
 
 ![Screenshot (233)](https://github.com/user-attachments/assets/2cc73019-09f4-49e1-85e7-2ee18cc2309e)
-
-
+<div align="center">
+  <h4><a href="https://github.com/NishantkSingh0/MobView" style="font-family: Arial; color: blue;">Mobile-Connectivity</a></h4>
+</div>
 
 ## Quiz page:
 On the quiz page, you’ll find 10 basic DSA (Data Structures and Algorithms) questions, each with four options. Simply click on the correct answers and submit them within the 5-minute time limit. The system is designed to ensure fair conduct and will automatically submit your quiz if any of the following happens:    
