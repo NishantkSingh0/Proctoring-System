@@ -67,4 +67,4 @@ On the quiz page, you’ll find 10 basic DSA (Data Structures and Algorithms) qu
 * "socket.io-client": "^4.8.1"
 
 
-## We got 3rd rank on collage hackathon (techqizard) with this project. this is my first hackathon and ranking in it will be a great achievement for me 😊
+### We got 3rd rank on University Hackathon (TechWizard) with this project. this is my first 24hr hackathon and ranking in it is a great achievement for me 😊
