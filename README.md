@@ -65,3 +65,6 @@ On the quiz page, you’ll find 10 basic DSA (Data Structures and Algorithms) qu
 * "react-dom": "^18.3.1",
 * "react-router-dom": "^6.27.0",
 * "socket.io-client": "^4.8.1"
+
+
+## We got 3rd rank on collage hackathon (techqizard) with this project. this is my first hackathon and ranking in it will be a great achievement for me 😊
