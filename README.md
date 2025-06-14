@@ -69,5 +69,3 @@ On the quiz page, you’ll find 10 basic DSA (Data Structures and Algorithms) qu
 
 ## Achievement:
 We got 3rd rank on University Hackathon (TechWizard) with this project. this is my first 24hr hackathon and ranking in it is a great achievement for me 😊
-
-<a href="https://www.linkedin.com/posts/nishantksingh1_hackathon-techwizard-innovation-activity-7323536846938898432-ih07?utm_source=share&utm_medium=member_android&rcm=ACoAAEXIrSMB1Q-v6W50Fho8DNLDqC0GfNeMxQQ" target="_blank">Linkedin Post</a>
